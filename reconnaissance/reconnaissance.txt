@@ -1,0 +1,19 @@
+Reconnaissance is the process of collecting information about a target.
+
+Passive Reconnaissance:
+Information is collected without directly interacting with the target system.
+
+Examples:
+- Public websites
+- Search engines
+- Public DNS information
+- Publicly available documents
+
+Active Reconnaissance:
+The target is directly contacted to gather information.
+
+Examples:
+- Ping
+- Nmap scanning
+- Port scanning
+- Service enumeration
