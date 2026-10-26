@@ -1,3 +1,4 @@
+
 # Linux, Security Tools & Reconnaissance
 
 ## About This Project
@@ -65,3 +66,6 @@ All testing is intended for localhost, systems I own, or environments for which 
 * Experience capturing and inspecting network traffic.
 * Introduction to web application security testing.
 * Practice documenting cybersecurity findings.
+=======
+# linux-security-reconnaissance
+Hands-on cybersecurity lab covering Linux fundamentals, Nmap, reconnaissance, Burp Suite, Wireshark, and OWASP ZAP.
